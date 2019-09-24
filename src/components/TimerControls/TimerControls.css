@@ -1,0 +1,7 @@
+.TimerControls {
+  margin-top: 20px;
+}
+.TimerControls button {
+  width: 100px;
+  border-radius: 20px;
+}
